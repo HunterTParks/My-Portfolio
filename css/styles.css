@@ -10,6 +10,7 @@
   text-emphasis: 20px;
 }
 
+<<<<<<< HEAD
 #variable{
   font-family: monospace;
   font-style: italic;
@@ -26,4 +27,12 @@
   #picture{
     margin-bottom: 10px;
   }
+=======
+.jumbotron{
+  background-color: #00AB00;
+}
+
+.panel-heading{
+  background-color: ;
+>>>>>>> green_palette
 }

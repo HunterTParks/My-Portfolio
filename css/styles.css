@@ -11,9 +11,15 @@
 }
 
 .jumbotron{
-  background-color: #00AB00;
+  background-color: #0EDB32;
 }
 
-.panel-heading{
-  background-color: ;
+.well{
+  background-color: #59EA72;
+}
+#panel-title{
+  /*background-color: #FF6D61;*/
+  height: 25px;
+  padding: 0px;
+
 }

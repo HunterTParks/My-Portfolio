@@ -2,7 +2,6 @@
   margin-left: 20px;
   margin-top: 20px;
   padding: -20px;
-
 }
 
 .special{
@@ -10,7 +9,6 @@
   text-emphasis: 20px;
 }
 
-<<<<<<< HEAD
 #variable{
   font-family: monospace;
   font-style: italic;
@@ -21,6 +19,7 @@
     margin-bottom: 20px;
   }
 }
+
 .jumbotron{
   background-color: #cfe0e8;
   padding: 15px;
@@ -29,10 +28,9 @@
 .well{
   background-color: #b7d7e8;
 }
+
 #panel-title{
   /*background-color: #FF6D61;*/
   height: 25px;
   padding: 0px;
-
-
 }

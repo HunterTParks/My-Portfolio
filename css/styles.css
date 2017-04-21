@@ -16,24 +16,18 @@
   font-style: italic;
 }
 
-#picture{
-
-}
-
-.jumbotron{
-  padding: 15px;
-}
 @media (max-width: 991px){
   #picture{
     margin-bottom: 20px;
   }
 }
 .jumbotron{
-  background-color: #80ced6;
+  background-color: #cfe0e8;
+  padding: 15px;
 }
 
 .well{
-  background-color: #618685;
+  background-color: #b7d7e8;
 }
 #panel-title{
   /*background-color: #FF6D61;*/

@@ -1,7 +1,3 @@
-.jumbotron{
-  /*margin-left: 0px;*/
-
-}
 #successes{
   margin-left: 20px;
   margin-top: 20px;
@@ -9,8 +5,7 @@
 
 }
 
-@media (max-width: 992px;){
-  /*.col-md-4{
-    margin: 5px;
-  }*/
+.special{
+  font-weight: 600;
+  text-emphasis: 20px;
 }

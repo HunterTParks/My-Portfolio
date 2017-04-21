@@ -6,7 +6,7 @@
 
 ## Description
 
-#####This current website depicts my information and achievements in a portfolio-style webpage. Listed is my Name, picture, background, hobbies, etc...
+##### This current website depicts my information and achievements in a portfolio-style webpage. Listed is my Name, picture, background, hobbies, etc...
 
 ## Setup/Installation Requirements
 

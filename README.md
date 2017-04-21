@@ -1,6 +1,6 @@
 # My Portfolio
 
-#### Website used as Hunter Parks' Portfolio. Build #1.0
+#### Website used as Hunter Parks' Portfolio. Build #1.004
 
 #### By Hunter Parks
 
@@ -18,7 +18,7 @@
 
 ## Known Bugs
 
-##### Couple issues with GUI regarding certain panels
+##### No known bugs
 
 ## Support and contact details
 

@@ -9,3 +9,21 @@
   font-weight: 600;
   text-emphasis: 20px;
 }
+
+#variable{
+  font-family: monospace;
+  font-style: italic;
+}
+
+#picture{
+
+}
+
+.jumbotron{
+  padding: 15px;
+}
+@media (max-width: 991px){
+  #picture{
+    margin-bottom: 10px;
+  }
+}

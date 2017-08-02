@@ -11,6 +11,7 @@ By Hunter Parks
 ## Setup/Installation Requirements
 
 * Go to the URL code I will give you
+
 OR
 * Put the following into Powershell/ Mono/ Git Bash/ Terminal
 ```console

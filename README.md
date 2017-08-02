@@ -1,6 +1,6 @@
 # My Portfolio
 
-#### Website used as Hunter Parks' Portfolio. Build #1.004
+#### Website used as Hunter Parks' Portfolio.
 By Hunter Parks
 
 ## Description
@@ -37,7 +37,6 @@ If you experience any bugs, please contact me at hunter.thomas.parks@gmail.com
 * HTML
 * CSS
 * Bootstrap
-* No HTML Template used. I created it myself.
 
 ---
 

@@ -1,28 +1,36 @@
 # My Portfolio
 
 #### Website used as Hunter Parks' Portfolio. Build #1.004
-
-#### By Hunter Parks
+By Hunter Parks
 
 ## Description
+ This current website depicts my information and achievements in a portfolio-style webpage. Listed is my Name, picture, background, hobbies, etc...
 
-##### This current website depicts my information and achievements in a portfolio-style webpage. Listed is my Name, picture, background, hobbies, etc...
+---
 
 ## Setup/Installation Requirements
 
 * Go to the URL code I will give you
-## OR
-* Go to my github repository at https://github.com/HunterTParks/My-Portfolio
-* Clone using the URL into a terminal with Git installed
+OR
+* Put the following into Powershell/ Mono/ Git Bash/ Terminal
+```console
+$ git clone https://github.com/HunterTParks/My-Portfolio.git
+```
 * View the file index.html
+
+---
 
 ## Known Bugs
 
-##### No known bugs
+There are no known bugs at this given time
+
+---
 
 ## Support and contact details
 
-##### Contact me @ NOTAREALEMAIL@hotmail.com
+If you experience any bugs, please contact me at hunter.thomas.parks@gmail.com
+
+---
 
 ## Technologies Used
 
@@ -31,8 +39,10 @@
 * Bootstrap
 * No HTML Template used. I created it myself.
 
+---
+
 ### License
 
-##This software is licensed under the GPL license.
+## This software is licensed under the GPL license.
 
-Copyright (c) 2016 Hunter Parks
+## Copyright (c) 2016 Hunter Parks
